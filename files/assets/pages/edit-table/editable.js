@@ -10,6 +10,10 @@ $('#example-1').Tabledit({
         editable: [[1, 'First Name'], [2, 'Last Name']]
     }
 });
+
+
+
+
     $('#example-2').Tabledit({
 
         columns: {
@@ -22,6 +26,10 @@ $('#example-1').Tabledit({
 
   });
 });
+
+
+
+
 function add_row()
 {
     var table = document.getElementById("example-1");
